@@ -1,1 +1,1 @@
-worker node bot - Kopya.js 
+worker node bot - Kopya.js
